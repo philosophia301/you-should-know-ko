@@ -1,0 +1,7 @@
+{
+  "name": "you-should-know-ko",
+  "version": "0.1.0",
+  "description": "메인 대화를 지켜보다 놓치기 쉬운 것을 한국어 카드로 알려줌",
+  "author": { "name": "philosophia301" },
+  "types": "./types/index.d.ts"
+}

@@ -1,0 +1,4 @@
+# Claude Code가 plugin을 로드할 때 생성하는 타입 파일
+.claude-plugin/types/
+node_modules/
+.DS_Store

@@ -1,0 +1,12 @@
+{
+  "name": "you-should-know-ko",
+  "description": "you-should-know-ko plugin 배포용 marketplace",
+  "owner": { "name": "philosophia301" },
+  "plugins": [
+    {
+      "name": "you-should-know-ko",
+      "source": "./",
+      "description": "메인 대화를 지켜보다 놓치기 쉬운 것을 한국어 카드로 알려줌"
+    }
+  ]
+}
